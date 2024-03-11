@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I tried to create this with a bit of visual representation ;)
+
+<img width="784" alt="Screenshot 2024-03-11 at 21 03 12" src="https://github.com/ksnimmy/stunt-app/assets/3624505/5a725f09-f078-445e-8787-9b6143749fa5">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
